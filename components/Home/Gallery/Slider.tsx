@@ -33,7 +33,7 @@ const Slider = () => {
     >
       {gallery.map((data) => (
         <div key={data.id} className="m-3">
-          <div className="relative h-[600px]">
+          <div className="relative h-[400px] sm:h-[600px]">
             <div className="absolute inset-0 bg-black opacity-25 rounded-lg"></div>
             <img
               src={data.image}

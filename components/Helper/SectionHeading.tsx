@@ -6,7 +6,7 @@ type props = {
 const SectionHeading = ({ heading, paragraph }: props) => {
   return (
     <div className="w-full mx-auto flex flex-col justify-center items-center">
-      <h1 className="text-xl sm:text-5xl text-yellow-900 font-bold">
+      <h1 className="text-3xl sm:text-5xl text-yellow-900 font-bold">
         {heading}
       </h1>
       <p className="mt-4 text-gray-700 sm:text-base text-sm font-medium">

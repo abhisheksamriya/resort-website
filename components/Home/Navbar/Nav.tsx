@@ -2,6 +2,7 @@
 import { navLinks } from "@/constant/constant";
 import Image from "next/image";
 import { useEffect, useState } from "react";
+import { FaPhone } from "react-icons/fa";
 import { HiBars3BottomRight } from "react-icons/hi2";
 
 const Nav = ({ openNav }: { openNav: () => void }) => {
@@ -47,9 +48,15 @@ const Nav = ({ openNav }: { openNav: () => void }) => {
         <div className="flex items-center space-x-4">
           <a
             href="tel:910-###-####"
-            className="md:px-12 md:py-2.5 px-8 py-2 text-white text-base bg-yellow-800 hover:bg-yellow-900 transition-all duration-300 rounded-lg"
+            className="hidden sm:block md:px-12 md:py-2.5 px-8 py-2 text-white text-base bg-yellow-800 hover:bg-yellow-900 transition-all duration-300 rounded-lg"
           >
             Call Us
+          </a>
+          <a
+            href="tel:910-###-####"
+            className="sm:hidden p-3 text-white text-base bg-yellow-800 hover:bg-yellow-900 transition-all duration-300 rounded-full"
+          >
+            <FaPhone />
           </a>
           {/* burger menu */}
           <HiBars3BottomRight

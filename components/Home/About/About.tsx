@@ -24,7 +24,7 @@ export default function About() {
               className="rounded-2xl object-cover w-full h-auto"
             />
           </div>
-          <div className="absolute -bottom-4 left-4 sm:left-8 bg-white p-4 rounded-xl shadow-md flex items-center space-x-3 z-1000">
+          <div className="absolute -bottom-4 left-4 sm:left-8 bg-white p-4 rounded-xl shadow-md flex items-center space-x-3 z-10">
             <div className="text-brown-600 text-3xl">⭐</div>
             <div>
               <p className="text-xl font-bold text-gray-900">50+</p>
@@ -39,7 +39,7 @@ export default function About() {
             <span className="text-xl">✦</span> About Us
           </p>
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 leading-tight">
-            Welcome To Our <br /> Moonlit Hotel & Resort
+            Welcome To Our <br /> Discover Hotel & Resort
           </h2>
           <p className="text-gray-700 text-base sm:text-lg">
             Welcome to Bokinn, where luxury meets comfort in the heart of

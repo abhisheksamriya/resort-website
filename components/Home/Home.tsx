@@ -7,7 +7,7 @@ import Hero from "@/components/Home/Hero/Hero";
 import Review from "@/components/Home/Reviews/Reviews";
 import Rooms from "@/components/Home/Rooms/Rooms";
 import Services from "@/components/Home/Services/Services";
-import VideoBanner from "@/components/VideoPlayer/VideoBanner";
+import VideoBanner from "@/components/Home/VideoPlayer/VideoBanner";
 
 const Home = () => {
   return (

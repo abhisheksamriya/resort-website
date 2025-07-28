@@ -4,7 +4,7 @@ import { FaMapMarkerAlt, FaPhoneAlt, FaEnvelope } from "react-icons/fa";
 
 export default function Contact() {
   return (
-    <section className="w-full bg-[url('/images/pattern.png')] py-20 px-6 md:px-12 w-screen overflow-x-hidden">
+    <section className=" bg-gray-100 py-20 px-6 md:px-12 w-screen overflow-x-hidden">
       <SectionHeading
         heading="Contact Us"
         paragraph="contact us for more information"
@@ -24,7 +24,7 @@ export default function Contact() {
         </div>
 
         {/* Contact Info */}
-        <div className="bg-white p-8 rounded-2xl shadow-md border border-gray-200 flex flex-col justify-between min-h-[400px]">
+        <div className="bg-white/40 p-8 rounded-2xl shadow-xl border border-gray-200 flex flex-col justify-between min-h-[400px]">
           <div>
             <h2 className="text-4xl font-bold text-gray-900 mb-4">
               Get in Touch

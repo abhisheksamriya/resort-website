@@ -1,10 +1,15 @@
 import { FaStar } from "react-icons/fa";
 import ReviewSlider from "./ReviewSlider";
+import SectionHeading from "@/components/Helper/SectionHeading";
 
 const Review = () => {
   return (
     <div className="pt-20 pb-20 flex items-center justify-center flex-col bg-[url('/images/pattern.png')] w-screen overflow-x-hidden">
-      <div className="w-[80%] mx-auto grid items-center grid-cols-1 lg:grid-cols-2 gap-10">
+      <SectionHeading
+        heading="Reviews"
+        paragraph="check the reviews of our customers"
+      />
+      <div className="mt-5 w-[80%] mx-auto grid items-center grid-cols-1 lg:grid-cols-2 gap-10">
         <div>
           <h1 className="text-2xl font-semibold text-black">
             What our customers are saying us?
