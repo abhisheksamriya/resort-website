@@ -11,9 +11,9 @@ const font = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Urban Rovers | Explore the World",
+  title: "Discover Resorts Karjat",
   description:
-    "Urban Rovers offers unforgettable travel experiences with personalized packages and hassle-free bookings. Discover your next adventure with us.",
+    "Discover Resorts Karjat offers a serene escape with premium rooms, fine dining, spa facilities, and adventure activities. Perfect for family vacations, romantic getaways, and corporate retreats.",
   icons: {
     icon: "images/favicon.ico",
   },
