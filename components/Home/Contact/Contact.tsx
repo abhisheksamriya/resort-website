@@ -9,7 +9,7 @@ export default function Contact() {
         heading="Contact Us"
         paragraph="contact us for more information"
       />
-      <div className="mt-5 max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-stretch">
+      <div className="mt-10 max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-stretch">
         {/* Map Section */}
         <div className="w-full h-full min-h-[400px] rounded-2xl overflow-hidden shadow-md border border-gray-200">
           <iframe
