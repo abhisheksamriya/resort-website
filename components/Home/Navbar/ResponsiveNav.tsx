@@ -8,7 +8,7 @@ const ResponsiveNav = () => {
   const handleNavShow = () => setShowNav(true);
   const handleCloseNav = () => setShowNav(false);
   return (
-    <div>
+    <div className="z-1000">
       <Nav openNav={handleNavShow} />
       <MobileNav showNav={showNav} closeNav={handleCloseNav} />
     </div>

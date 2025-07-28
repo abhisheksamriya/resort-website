@@ -17,7 +17,7 @@ const MobileNav = ({
       ></div>
       {/* navlinks */}
       <div
-        className={`text-black fixed ${navOpen} justify-center flex flex-col h-full transform transition-all duration-300 delay-150 w-[80%] sm:w-[60%] bg-sky-300 space-y-6 z-[1050] `}
+        className={`text-black fixed ${navOpen} justify-center flex flex-col h-full transform transition-all duration-300 delay-150 w-[80%] sm:w-[60%] bg-yellow-700 space-y-6 z-[1050] `}
       >
         {navLinks.map((link) => (
           <a key={link.id} href={link.url} onClick={closeNav}>
