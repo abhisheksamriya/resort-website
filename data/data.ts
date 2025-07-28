@@ -76,57 +76,58 @@ export const packagesData = [
 export const reviewData = [
   {
     id: 1,
-    name: "Abhishek",
+    name: "Abhishek Meena",
     review:
-      "Our Thailand trip was so smoothly planned and executed. Everything was well taken care of, just like a home away from home. ",
+      "The resort was peaceful and beautifully maintained. The staff was courteous and the food was delicious. Had a perfect weekend getaway!",
     image: "/images/u1.jpg",
   },
   {
     id: 2,
-    name: "Jane Smith",
+    name: "Priya Sharma",
     review:
-      "Our India trip was so smoothly planned and executed. Everything was well taken care of, just like a home away from home.",
+      "Loved the ambience and cleanliness of the rooms. The poolside view from our cottage was amazing. Highly recommend this place for couples.",
     image: "/images/u2.jpg",
   },
   {
     id: 3,
-    name: "Michael Brown",
+    name: "Rajeev Verma",
     review:
-      "Exceptional quality and fantastic customer service! The project was delivered on time and exactly as I wanted. I will definitely use their services again.",
+      "Perfect place to relax away from city noise. The hospitality was top-notch, and kids enjoyed the outdoor activities a lot.",
     image: "/images/u3.jpg",
   },
   {
     id: 4,
-    name: "Jitu Singh",
+    name: "Neha Yadav",
     review:
-      "Urban Rovers provided me with excellent services in terms of Location, quality/rate & timeliness. Hotels suggested were value for money.",
+      "We had a wonderful stay. The room was spacious, the staff was warm and welcoming, and the spa service was really refreshing.",
     image: "/images/u1.jpg",
   },
   {
     id: 5,
-    name: "Rohit Bairwa",
+    name: "Amit Chauhan",
     review:
-      "I recently planned my Bali trip with UrbanRovers. Thanks for making beautiful memories during my trip.",
+      "Booked for a family vacation and everything was well arranged. The food, amenities, and service exceeded our expectations.",
     image: "/images/u2.jpg",
   },
   {
     id: 6,
-    name: "Suraj",
-    review: "Response time is almost NIL. I wish them a great time ahead.",
+    name: "Sneha Jain",
+    review:
+      "Such a calm and nature-filled resort. The morning view from our balcony was breathtaking. Definitely coming back soon!",
     image: "/images/u3.jpg",
   },
   {
     id: 7,
-    name: "Anshul Dadhich",
+    name: "Deepak Soni",
     review:
-      "I recently planned my Singapore trip with Urban Rovers. The arrangement from stay to sightseeing made by them done was nicely managed. Thanks for making.",
+      "The resort is perfect for corporate outings. We had a great team bonding experience with excellent service and conference facilities.",
     image: "/images/u1.jpg",
   },
   {
     id: 8,
-    name: "Rohan Sharma",
+    name: "Ritika Deswal",
     review:
-      "Our Thailand trip was so smoothly planned and executed. Everything was well taken care of, just like a home away from home.",
+      "Our stay was absolutely fantastic! Clean rooms, quick room service, and a wide variety of dishes at the restaurant. 5 stars from me!",
     image: "/images/u2.jpg",
   },
 ];

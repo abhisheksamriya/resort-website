@@ -26,7 +26,7 @@ const Nav = ({ openNav }: { openNav: () => void }) => {
         {/* logo */}
         <div className="flex items-center space-x-2 justify-center">
           <a href="/">
-            <h1 className="text-xl sm:text-3xl bg-gradient-to-r from-yellow-600 to-yellow-900 bg-clip-text text-transparent">
+            <h1 className="text-xl font-bold sm:text-3xl bg-gradient-to-r from-yellow-600 to-yellow-900 bg-clip-text text-transparent">
               Discover Resort
             </h1>
           </a>
