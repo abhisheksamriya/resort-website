@@ -26,6 +26,18 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta
+          name="google-site-verification"
+          content="Aumr9NyEUp9LJbUgQxWBsc7apiniigmUQUbWiFhvq2Y"
+        />
+        <title>Discover Resorts Karjat</title>
+        <meta
+          name="description"
+          content="Discover Resorts Karjat offers a serene escape with premium rooms, fine dining, spa facilities, and adventure activities. Perfect for family vacations, romantic getaways, and corporate retreats."
+        />
+        <link rel="icon" href="/images/view.jpg" />
+      </head>
       <body
         cz-shortcut-listen="true"
         className={`${font.className} antialiased`}
