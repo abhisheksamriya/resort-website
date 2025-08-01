@@ -11,6 +11,7 @@ export default function Head() {
         name="description"
         content="Discover Resorts Karjat offers a serene escape with premium rooms, fine dining, spa facilities, and adventure activities. Perfect for family vacations, romantic getaways, and corporate retreats."
       />
+      <link rel="icon" href="/images/view.jpg" />
     </>
   );
 }
