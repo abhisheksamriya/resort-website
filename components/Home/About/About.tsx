@@ -50,7 +50,7 @@ export default function About() {
             whether you’re here for business or leisure.
           </p>
           <button className="mt-4 bg-brown-600 hover:bg-brown-700 text-black px-6 py-3 rounded-xl shadow-md transition duration-300 bg-yellow-800">
-            Learn More
+            Whatsapp us
           </button>
         </div>
       </div>
