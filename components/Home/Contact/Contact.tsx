@@ -47,7 +47,7 @@ export default function Contact() {
               </li>
               <li className="flex items-center gap-4">
                 <FaPhoneAlt className="text-indigo-600" />
-                <span>+91 8069065624</span>
+                <span>+91 806-###-####</span>
               </li>
               <li className="flex items-center gap-4">
                 <FaEnvelope className="text-indigo-600" />

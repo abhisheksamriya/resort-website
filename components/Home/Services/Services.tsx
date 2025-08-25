@@ -31,7 +31,7 @@ export default function Services() {
   ];
 
   return (
-    <section className="bg-gray-100 py-20">
+    <section id="services" className="bg-gray-100 py-20">
       <div className="text-center mb-12 px-4">
         <p className="text-yellow-900 text-lg font-semibold flex justify-center items-center gap-2">
           <span className="text-xl">✦</span> Services{" "}
