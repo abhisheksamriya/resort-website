@@ -2,7 +2,10 @@ import Image from "next/image";
 
 export default function About() {
   return (
-    <section className="py-16 sm:py-20 bg-white w-screen overflow-x-hidden">
+    <section
+      id="about"
+      className="py-16 sm:py-20 bg-white w-screen overflow-x-hidden"
+    >
       <div className="container mx-auto px-4 sm:px-6 lg:px-20 flex flex-col lg:flex-row items-center gap-12">
         {/* Left Image Side */}
         <div className="relative w-full lg:w-1/2 flex justify-center items-center">

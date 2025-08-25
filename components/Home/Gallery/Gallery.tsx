@@ -4,7 +4,7 @@ import Slider from "./Slider";
 const Gallery = () => {
   return (
     <div
-      id="services"
+      id="gallery"
       className="pt-5 sm:pt-10 sm:pb-10 pb-5 bg-gray-100 w-screen overflow-x-hidden"
     >
       <SectionHeading

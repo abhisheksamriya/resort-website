@@ -5,7 +5,7 @@ import SectionHeading from "@/components/Helper/SectionHeading";
 const Rooms = () => {
   return (
     <div
-      id="package"
+      id="rooms"
       className="pt-10 sm:pt-20 sm:pb-20 bg-white w-screen overflow-x-hidden"
     >
       <SectionHeading

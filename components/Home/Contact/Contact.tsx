@@ -4,7 +4,10 @@ import { FaMapMarkerAlt, FaPhoneAlt, FaEnvelope } from "react-icons/fa";
 
 export default function Contact() {
   return (
-    <section className=" bg-gray-100 py-20 px-6 md:px-12 w-screen overflow-x-hidden">
+    <section
+      id="contact"
+      className=" bg-gray-100 py-20 px-6 md:px-12 w-screen overflow-x-hidden"
+    >
       <SectionHeading
         heading="Contact Us"
         paragraph="contact us for more information"
